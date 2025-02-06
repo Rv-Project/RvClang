@@ -1,8 +1,8 @@
 # RvClang
-- LLVM 19.1.7
+- LLVM 21.0.0
 - Binutils 2.43.0
 
 # More
-- [Repository](https://gitlab.com/rvproject27/RvClang/-/tree/19.1.7)
-- [Telegram Channel](https://t.me/rveupdate)
-- [Telegram Group](https://t.me/rvegroup)
+- [Repository](https://gitlab.com/rvproject27/RvClang/-/tree/main/21.x)
+- [Telegram Channel](https://t.me/rveproject)
+- [Telegram Group](https://t.me/rvosuniverse)
