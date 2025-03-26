@@ -1,5 +1,5 @@
 # RvClang
-- LLVM 20.1.0
+- LLVM 20.1.1
 - Binutils 2.44.0
 
 # More
